@@ -32,5 +32,10 @@ function destructivelyRemoveElementFromEndOfArray(array){
   return array
 }
 
+function removeElementFromEndOfArray(){
+  
+  return newArray
+}
+
 //test
 console.log(chocolateBars)
