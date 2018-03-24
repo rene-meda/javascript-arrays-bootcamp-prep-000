@@ -38,7 +38,8 @@ function accessElementInArray(array, n){
 //shift removes an element from the beginning of an array
 
 function destructivelyRemoveElementFromBeginningOfArray(array){
-  return array.shift()
+  array.shift()
+  return array
 }
 
 function removeElementFromBeginningOfArray(array){
