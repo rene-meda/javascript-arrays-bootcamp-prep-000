@@ -37,5 +37,5 @@ function removeElementFromEndOfArray(array){
   return newArray
 }
 
-//test
-console.log(chocolateBars)
+
+destructivelyAddElementToBeginningOfArray(chocolateBars, "peanut")
