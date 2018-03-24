@@ -15,6 +15,11 @@ function destructivelyAddElementToBeginningOfArray(array, element){
   return array.unshift(element)
 }
 
+function addElementToEndOfArray(){
+  return
+}
+
+
 function accessElementInArray(array, n){
   return array[n]
 }
