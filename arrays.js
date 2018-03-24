@@ -19,7 +19,7 @@ function addElementToEndOfArray(array, element){
   return
 }
 
-function destructivelyAddElementToEndOfArray(){
+function destructivelyAddElementToEndOfArray(array, element){
   
 }
 
