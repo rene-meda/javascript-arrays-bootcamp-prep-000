@@ -3,7 +3,10 @@ var chocolateBars = [
   'hundred grand',
   'kitkat',
   'skittles'
-  ]
+  
+  //MUTATE
+//push elements ono the END of array
+//unshift elements onto the beginning of an array
   
 function addElementToBeginningOfArray(array, element){
   var newArray = [element, ...array]
