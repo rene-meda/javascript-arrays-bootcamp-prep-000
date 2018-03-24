@@ -3,6 +3,7 @@ var chocolateBars = [
   'hundred grand',
   'kitkat',
   'skittles'
+  ]
   
   //MUTATE
 //push elements ono the END of array
